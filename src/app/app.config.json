@@ -1,0 +1,14 @@
+{
+  "appname": "Test",
+  "scope": "",
+  "clientid": "6355273D-C52D-4720-9E55-A195FF60ACC0",
+  "buyerid": "test",
+  "environment": "prod",
+  "anonymous": false,
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
